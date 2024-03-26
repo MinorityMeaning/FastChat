@@ -1,4 +1,4 @@
-package ru.mardaunt
+package ru.mardaunt.chat.server
 
 import cats.effect.{ExitCode, IO, IOApp}
 
